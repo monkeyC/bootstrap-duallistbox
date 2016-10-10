@@ -2,6 +2,8 @@
   "name": "bootstrap-duallistbox",
   "title": "Bootstrap Duallistbox",
   "description": "A responsive dual listbox widget optimized for Twitter Bootstrap. It works on all modern browsers and on touch devices.",
+  "main": "src/jquery.bootstrap-duallistbox.js",
+  "style": "src/bootstrap-duallistbox.css",
   "author": {
     "name": "István Ujj-Mészáros",
     "url": "https://github.com/istvan-ujjmeszaros"
